@@ -1,8 +1,11 @@
 body {
     background-color: lightblue;
     }
-    
-    h1 {
+
+.top-bar{
     color: navy;
-    margin-left: 20px;
-    }
+}
+    
+#topleft-caption {
+    margin-left: 1%;
+}
